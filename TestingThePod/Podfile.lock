@@ -1,0 +1,16 @@
+PODS:
+  - KevsFramework (1.0.0)
+
+DEPENDENCIES:
+  - KevsFramework (from `../KevsFramework/`)
+
+EXTERNAL SOURCES:
+  KevsFramework:
+    :path: "../KevsFramework/"
+
+SPEC CHECKSUMS:
+  KevsFramework: cf57bf37feac503a281611763d1292ddbcff1bad
+
+PODFILE CHECKSUM: 5f5d1d0ff5a2a3186d92e4e1e896d9a225bf4783
+
+COCOAPODS: 1.10.1
